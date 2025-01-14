@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AircraftWar2024_220110120_wzf</string>
+    <string name="turn_off_music">关闭音乐</string>
+    <string name="turn_on_music">开启音乐</string>
+    <string name="Single_play">单机游戏</string>
+    <string name="Together_play">联机对战</string>
+    <string name="background_usage">起始页面的背景</string>
+</resources>
